@@ -1,0 +1,4 @@
+<code>
+arr = [2, 4, 6, 8, 10]
+Create an array of length 5 which contains all even numbers between 1 and 10.
+</code>
